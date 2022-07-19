@@ -1,4 +1,4 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using Rhino.PlugIns;
@@ -12,7 +12,7 @@ using Rhino.PlugIns;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Speckle Grasshopper")]
-[assembly: AssemblyDescription("The Speckle Grasshopper plugin.")]
+[assembly: AssemblyDescription("https://github.com/BHoM/SpeckleRhinoFork")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Speckle.Works")]
 [assembly: AssemblyProduct("Speckle")]
@@ -38,5 +38,5 @@ using Rhino.PlugIns;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("5.0.0.0")]
+[assembly: AssemblyFileVersion("5.3.0.0")]
